@@ -1,0 +1,6 @@
+ "tea.yaml"# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x99475B65dB23293EfCc760F644588C12D6cE8201'
+quorum: 1
